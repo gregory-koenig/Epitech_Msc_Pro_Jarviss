@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2021-01-06T12:11:34.763Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="jTG449kWFKHFVKIpqkoc" version="14.1.8" type="device">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="3555" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="Money &amp;amp; payments" link="https://www.youtube.com/watch?v=_trgtaBNaHA&amp;feature=youtu.be" id="1350">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;strokeColor=none;fillColor=#1699D3;" parent="1" vertex="1">
+            <mxGeometry x="820" y="306.5" width="142" height="142" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1351" value="Big Data" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="730" width="142" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="1354" value="Wealth management" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="1150" width="142" height="142" as="geometry" />
+        </mxCell>
+        <UserObject label="People &amp;amp; carrers" link="https://www.kforce.com/articles/fintech-careers/" id="1356">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;strokeColor=none;fillColor=#E85642;" parent="1" vertex="1">
+            <mxGeometry x="1280" y="240" width="142" height="142" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Marketplaces" link="https://www.nfx.com/post/fintech-enabled-marketplaces/#:~:text=To%20expand%20on%20what%20we,built%20directly%20into%20the%20platform.&amp;text=Financing%3A%20Non%2Dtraditional%20financing%20options,to%2Down%20or%20income%2Dsharing" id="1358">
+          <mxCell style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;fontStyle=0" parent="1" vertex="1">
+            <mxGeometry x="690" y="60" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1560" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.448;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#1699D3;endArrow=none;endFill=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1350" target="1368">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Money transfert" link="https://www.instarem.com/blog/wp-content/uploads/2017/12/0*_5BYgR25NPOhYxN5." id="1368">
+          <mxCell style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+            <mxGeometry x="530" y="160" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Risk management" link="https://www.icarvision.com/uploads/20160318/BIG_DATA_2_EN.jpg" id="1398">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+            <mxGeometry x="2000" y="980" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Forex" link="https://www.investopedia.com/articles/forex/11/why-trade-forex.asp" id="1459">
+          <mxCell style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+            <mxGeometry x="1583" y="1010" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="New communities" link="https://medium.com/@triciatita/4-reasons-why-community-matters-for-fintech-in-2019-8a9ac1da39d7" id="1490">
+          <mxCell style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+            <mxGeometry x="1630" y="150" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="FINTECH" link="https://www.consumersinternational.org/media/154711/banking-on-the-future-summary-english.pdf" id="1515">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
+            <mxGeometry x="1040" y="690" width="270" height="270" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1542" value="Security" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;strokeColor=#3A5431;fontColor=#ffffff;fillColor=#6D8764;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1120" width="142" height="142" as="geometry" />
+        </mxCell>
+        <UserObject label="Regtech" link="https://www.youtube.com/watch?v=YsBPkVC5gJ0&amp;feature=youtu.be" id="FxisBmWo4H91Jbu_wnZ3-1545">
+          <mxCell style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;shadow=0;html=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="290" y="1040" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Cryptocurrencies" link="https://www.codingdojo.com/blog/wp-content/uploads/cryptocurrency-revisioned-2.png" id="FxisBmWo4H91Jbu_wnZ3-1551">
+          <mxCell style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="592" y="663.5" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1552" value="Cards" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="142" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1561" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#1699D3;endArrow=none;endFill=0;" edge="1" parent="1" source="1350" target="1358">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="502" y="112.39999999999998" as="targetPoint" />
+            <mxPoint x="829.9999999999995" y="441.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1562" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#1699D3;endArrow=none;endFill=0;" edge="1" parent="1" source="1350" target="FxisBmWo4H91Jbu_wnZ3-1552">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512" y="122.39999999999998" as="targetPoint" />
+            <mxPoint x="839.9999999999995" y="451.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1563" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#1699D3;endArrow=none;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1350" target="FxisBmWo4H91Jbu_wnZ3-1551">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522" y="132.39999999999998" as="targetPoint" />
+            <mxPoint x="850" y="560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Mobile" link="https://www.finleap.com/insights/fintech-trends-mobile-age/" id="FxisBmWo4H91Jbu_wnZ3-1564">
+          <mxCell style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="443" y="480.5" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1565" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#1699D3;endArrow=none;endFill=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1564" source="1350">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393" y="211.39999999999998" as="targetPoint" />
+            <mxPoint x="710.9999999999995" y="530.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Apps" link="https://industrytoday.com/5-best-fintech-apps-for-2020/" id="FxisBmWo4H91Jbu_wnZ3-1566">
+          <mxCell style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="180" y="306.5" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1567" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#1699D3;endArrow=none;endFill=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1566" source="FxisBmWo4H91Jbu_wnZ3-1564">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="263.9" as="targetPoint" />
+            <mxPoint x="832.9999999999995" y="582.5000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Cash management" link="https://www.lesechos.fr/2016/11/les-fintech-sattaquent-au-cash-management-230435" id="FxisBmWo4H91Jbu_wnZ3-1568">
+          <mxCell style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="121" y="386.5" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1569" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#1699D3;endArrow=none;endFill=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1568" source="FxisBmWo4H91Jbu_wnZ3-1564">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="333.9" as="targetPoint" />
+            <mxPoint x="393" y="351.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Wallets" link="https://www.intellias.com/guide-to-mobile-wallets-apple-pay-google-pay-and-how-they-re-transforming-fintech/" id="FxisBmWo4H91Jbu_wnZ3-1570">
+          <mxCell style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="80" y="480.5" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1571" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#1699D3;endArrow=none;endFill=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1570" source="FxisBmWo4H91Jbu_wnZ3-1564">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="412.9" as="targetPoint" />
+            <mxPoint x="393.99999999999955" y="654.4999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="MNOs" link="https://youtap.com/the-case-for-why-your-mno-should-offer-financial-services/" id="FxisBmWo4H91Jbu_wnZ3-1572">
+          <mxCell style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="121" y="571.5" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1573" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#1699D3;endArrow=none;endFill=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1572" source="FxisBmWo4H91Jbu_wnZ3-1564">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="499.84" as="targetPoint" />
+            <mxPoint x="393.99999999999955" y="741.4399999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Devices" link="https://builtin.com/internet-things/iot-in-fintech" id="FxisBmWo4H91Jbu_wnZ3-1574">
+          <mxCell style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="200" y="663.5" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1575" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#1699D3;endArrow=none;endFill=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1574" source="FxisBmWo4H91Jbu_wnZ3-1564">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="583.9" as="targetPoint" />
+            <mxPoint x="393.99999999999955" y="825.4999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1576" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#6D8764;endArrow=none;endFill=0;" edge="1" parent="1" source="FxisBmWo4H91Jbu_wnZ3-1542" target="FxisBmWo4H91Jbu_wnZ3-1545">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="661.5000000000002" as="targetPoint" />
+            <mxPoint x="830" y="441.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1577" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#E85642;endArrow=none;endFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1356" target="1490">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322" y="1112" as="targetPoint" />
+            <mxPoint x="1460" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1579" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#736CA8;endArrow=none;endFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1354" target="1459">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="64" y="1142" as="targetPoint" />
+            <mxPoint x="312" y="1238" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1580" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fillColor=#1ba1e2;strokeWidth=4;strokeColor=#6D8764;endArrow=none;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1515" target="FxisBmWo4H91Jbu_wnZ3-1542">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="342" y="1132" as="targetPoint" />
+            <mxPoint x="590" y="1228" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="921" />
+              <mxPoint x="1060" y="1090" />
+              <mxPoint x="942" y="1090" />
+              <mxPoint x="942" y="1191" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1581" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fillColor=#1ba1e2;strokeWidth=4;strokeColor=#1699D3;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1515" target="1350">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="641" y="1137" as="targetPoint" />
+            <mxPoint x="1050" y="835" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="920" y="825" />
+              <mxPoint x="920" y="590" />
+              <mxPoint x="1040" y="590" />
+              <mxPoint x="1040" y="431" />
+              <mxPoint x="941" y="431" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1582" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fillColor=#1ba1e2;strokeWidth=4;strokeColor=#E85642;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1515" target="1356">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="651" y="1147" as="targetPoint" />
+            <mxPoint x="1580" y="620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1175" y="480" />
+              <mxPoint x="1351" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1583" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fillColor=#1ba1e2;strokeWidth=4;strokeColor=#736CA8;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.016;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1515" target="1354">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="1320" as="targetPoint" />
+            <mxPoint x="1070" y="855" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1300" y="921" />
+              <mxPoint x="1300" y="1050" />
+              <mxPoint x="1190" y="1050" />
+              <mxPoint x="1190" y="1242" />
+              <mxPoint x="1282" y="1242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1584" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fillColor=#1ba1e2;strokeWidth=4;strokeColor=#F08705;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1515" target="1351">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1620" y="480" as="targetPoint" />
+            <mxPoint x="1080" y="865" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1460" y="825" />
+              <mxPoint x="1460" y="660" />
+              <mxPoint x="1640" y="660" />
+              <mxPoint x="1640" y="801" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Merchants" link="https://miro.com/app/board/o9J_lZmAbOE=/?moveToWidget=3074457352979162367&amp;cot=14" id="FxisBmWo4H91Jbu_wnZ3-1585">
+          <mxCell style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="246" y="193" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1586" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#1699D3;endArrow=none;endFill=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1585" source="FxisBmWo4H91Jbu_wnZ3-1552">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="524" y="704.9" as="targetPoint" />
+            <mxPoint x="432" y="626.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Remittance&lt;br&gt;Vs Domestic" link="https://richtopia.com/smart-investing/money/10-things-fintech-has-done-for-the-international-remittance/" id="FxisBmWo4H91Jbu_wnZ3-1587">
+          <mxCell style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="330" y="48" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1588" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#1699D3;endArrow=none;endFill=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1587" source="1368">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="28.399999999999977" as="targetPoint" />
+            <mxPoint x="443" y="-50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Authentication" link="https://matchi.biz/news/805-fintech-innovations-on-multi-factor-authentication" id="FxisBmWo4H91Jbu_wnZ3-1589">
+          <mxCell style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;shadow=0;html=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="308" y="1230" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1590" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#6D8764;endArrow=none;endFill=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1589" source="FxisBmWo4H91Jbu_wnZ3-1542">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="750.0000000000002" as="targetPoint" />
+            <mxPoint x="560" y="1286.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Compliance" link="https://www.legalexecutiveinstitute.com/wp-content/uploads/2019/02/Fintech-Regtech-Infographic-2019.pdf" id="FxisBmWo4H91Jbu_wnZ3-1591">
+          <mxCell style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;shadow=0;html=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="580" y="1309" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1592" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#6D8764;endArrow=none;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1591" source="FxisBmWo4H91Jbu_wnZ3-1542">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="874.5000000000002" as="targetPoint" />
+            <mxPoint x="570" y="1411" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Blockchain" link="https://www.youtube.com/watch?v=SSo_EIwHSd4&amp;feature=youtu.be" id="FxisBmWo4H91Jbu_wnZ3-1593">
+          <mxCell style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;shadow=0;html=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="570" y="920" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1594" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#6D8764;endArrow=none;endFill=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1593" source="FxisBmWo4H91Jbu_wnZ3-1542">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="554.5000000000002" as="targetPoint" />
+            <mxPoint x="585" y="1091" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Privacy" link="https://www.plugandplaytechcenter.com/resources/regtech-asset-management-compliance/" id="FxisBmWo4H91Jbu_wnZ3-1597">
+          <mxCell style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;shadow=0;html=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="498" y="1490" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Policies" link="https://shuftipro.com/blog/fintech-compliance-the-ultimate-boogeyman-for-trillion-dollar-industry" id="FxisBmWo4H91Jbu_wnZ3-1599">
+          <mxCell style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;shadow=0;html=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="688" y="1530" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="KYC" link="https://getid.ee/kyc-and-aml/" id="FxisBmWo4H91Jbu_wnZ3-1601">
+          <mxCell style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;shadow=0;html=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="350" y="1410" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="AML" link="https://www.youtube.com/watch?v=Iu8OBwZBkyo&amp;feature=youtu.be" id="FxisBmWo4H91Jbu_wnZ3-1603">
+          <mxCell style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;shadow=0;html=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="808" y="1440" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1604" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#6D8764;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1603" source="FxisBmWo4H91Jbu_wnZ3-1591">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="634.5000000000002" as="targetPoint" />
+            <mxPoint x="350" y="1278" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="670" y="1359" />
+              <mxPoint x="670" y="1400" />
+              <mxPoint x="879" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Bitcoin" link="https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html" id="FxisBmWo4H91Jbu_wnZ3-1606">
+          <mxCell style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;shadow=0;html=1;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="388" y="800" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1607" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#6D8764;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1606" source="FxisBmWo4H91Jbu_wnZ3-1593">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-25" y="430.0000000000002" as="targetPoint" />
+            <mxPoint x="130.00000000000045" y="1055" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Trading" link="https://www.forbes.com/sites/shamahyder/2020/12/22/how-forex-trading-apps-are-reshaping-the-fintech-space-in-2021/?sh=9cd3e5f74d13" id="FxisBmWo4H91Jbu_wnZ3-1608">
+          <mxCell style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1800" y="1100" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1609" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#736CA8;endArrow=none;endFill=0;exitX=0.974;exitY=0.308;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1608" source="1354">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="74" y="1181" as="targetPoint" />
+            <mxPoint x="1595" y="1301.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Investment tools" link="https://www.visualcapitalist.com/visualizing-the-rise-of-investment-tech/" id="FxisBmWo4H91Jbu_wnZ3-1610">
+          <mxCell style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1952" y="1196" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1611" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#736CA8;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1610" source="1354">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="84" y="1271" as="targetPoint" />
+            <mxPoint x="1612" y="1400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1661" y="1221" />
+              <mxPoint x="1661" y="1200" />
+              <mxPoint x="1717" y="1200" />
+              <mxPoint x="1717" y="1250" />
+              <mxPoint x="1851" y="1250" />
+              <mxPoint x="1851" y="1221" />
+              <mxPoint x="1961" y="1221" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Robo advisors" link="https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp" id="FxisBmWo4H91Jbu_wnZ3-1612">
+          <mxCell style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1868" y="1292" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1613" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#736CA8;endArrow=none;endFill=0;exitX=0.971;exitY=0.651;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1612" source="1354">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="84" y="1381" as="targetPoint" />
+            <mxPoint x="1605" y="1501.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="P2P" link="https://www.comparethecloud.net/articles/the-rise-of-p2p-lending-what-are-the-scopes-of-this-fintech-innovation/" id="FxisBmWo4H91Jbu_wnZ3-1614">
+          <mxCell style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1920" y="1390" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1615" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#736CA8;endArrow=none;endFill=0;exitX=0.956;exitY=0.69;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1614" source="1354">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="84" y="1471" as="targetPoint" />
+            <mxPoint x="1631" y="1350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1447" y="1265" />
+              <mxPoint x="1551" y="1265" />
+              <mxPoint x="1551" y="1360" />
+              <mxPoint x="1781" y="1360" />
+              <mxPoint x="1781" y="1420" />
+              <mxPoint x="1921" y="1420" />
+              <mxPoint x="1921" y="1395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Insuretech" link="https://www.thebalancesmb.com/what-is-insurtech-4584490" id="FxisBmWo4H91Jbu_wnZ3-1616">
+          <mxCell style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1751" y="1470" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Neobank" link="https://mozo.com.au/neobanks/guides/neobanks-and-fintech-what-they-are-and-why-you-should-be-paying-attention" id="FxisBmWo4H91Jbu_wnZ3-1618">
+          <mxCell style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1500" y="1520" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1619" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#736CA8;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1618" source="1354">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="94" y="1671" as="targetPoint" />
+            <mxPoint x="1615" y="1791.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Decision making" link="https://www.ibmbigdatahub.com/sites/default/files/styles/xlarge-scaled/public/infographic_image/4-Vs-of-big-data.jpg?itok=4syrvSLX" id="FxisBmWo4H91Jbu_wnZ3-1620">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="2075" y="872" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1621" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;strokeColor=#F08705;endArrow=none;endFill=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1620" source="1351">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1895" y="571.0000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1920" y="851" />
+              <mxPoint x="1920" y="920" />
+              <mxPoint x="2020" y="920" />
+              <mxPoint x="2020" y="897" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Credit scoring" link="http://lumosbusiness.com/fintech-next-gen-credit-scoring/" id="FxisBmWo4H91Jbu_wnZ3-1622">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="2030" y="600" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1623" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;strokeColor=#F08705;endArrow=none;endFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1622" source="1351">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1893" y="484.5000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1970" y="751" />
+              <mxPoint x="1970" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Loyalty" link="https://www.marketsandmarkets.com/Images/loyalty-management-market21.jpg" id="FxisBmWo4H91Jbu_wnZ3-1624">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1810" y="560" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1625" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;strokeColor=#F08705;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1624" source="1351">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1893" y="389.0000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1810" y="730" />
+              <mxPoint x="1810" y="670" />
+              <mxPoint x="1747" y="670" />
+              <mxPoint x="1747" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1627" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;strokeColor=#F08705;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="1398" source="1351">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1915" y="686.5000000000002" as="sourcePoint" />
+            <mxPoint x="2099" y="794.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Aggregation" link="https://tearsheet.co/sponsored-by-fiserv/fintech-strategies-require-data-aggregation/" id="FxisBmWo4H91Jbu_wnZ3-1628">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="2120" y="730" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1629" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;strokeColor=#F08705;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1628" source="1351">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1915" y="591.0000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1852" y="810" />
+              <mxPoint x="2010" y="810" />
+              <mxPoint x="2010" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Education" link="https://www.my-mooc.com/fr/mooc/introduction-to-fintech/" id="FxisBmWo4H91Jbu_wnZ3-1631">
+          <mxCell style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1330" y="98" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1632" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#E85642;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1631" source="1356">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1017" as="targetPoint" />
+            <mxPoint x="1390" y="261" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Fintech unicorns" link="https://cbi-research-portal-uploads.s3.amazonaws.com/2020/05/18180718/Fintech-unicorns-Q120.png" id="FxisBmWo4H91Jbu_wnZ3-1633">
+          <mxCell style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1540" y="405.5" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1634" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#E85642;endArrow=none;endFill=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1633" source="1356">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322" y="1292" as="targetPoint" />
+            <mxPoint x="1402" y="536" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1635" value="Jobs" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="320" width="142" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1636" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#E85642;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1635" source="1356">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1197" as="targetPoint" />
+            <mxPoint x="1390" y="441" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Innovation labs" link="https://www.youtube.com/watch?v=muG5pWOBLis&amp;feature=youtu.be" id="FxisBmWo4H91Jbu_wnZ3-1637">
+          <mxCell style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1920" y="364" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1638" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#E85642;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1637" source="FxisBmWo4H91Jbu_wnZ3-1635">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1162" y="1092" as="targetPoint" />
+            <mxPoint x="2242" y="336" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Incubators Vs&lt;br&gt;Accelerators" link="https://masschallenge.org/article/accelerators-vs-incubators" id="FxisBmWo4H91Jbu_wnZ3-1639">
+          <mxCell style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1899" y="220" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1640" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#E85642;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1639" source="FxisBmWo4H91Jbu_wnZ3-1635">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="997" as="targetPoint" />
+            <mxPoint x="2230" y="241" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Online communities" link="https://www.youtube.com/watch?v=LrXF3uFnHCA" id="FxisBmWo4H91Jbu_wnZ3-1641">
+          <mxCell style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1992" y="80" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1642" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#E85642;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1641" source="1490">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1112" y="864" as="targetPoint" />
+            <mxPoint x="2192" y="108" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Financial culture" link="https://www.fintechamericas.co/news/the-impact-of-culture-on-the-financial-industry-transformation/" id="FxisBmWo4H91Jbu_wnZ3-1643">
+          <mxCell style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="1640" y="20" width="142" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1644" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#E85642;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="FxisBmWo4H91Jbu_wnZ3-1643" source="FxisBmWo4H91Jbu_wnZ3-1631">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="769" as="targetPoint" />
+            <mxPoint x="2180" y="13" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1646" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#6D8764;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FxisBmWo4H91Jbu_wnZ3-1591" target="FxisBmWo4H91Jbu_wnZ3-1599">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1118" y="1619.5" as="targetPoint" />
+            <mxPoint x="858" y="1538.4999999999995" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="651" y="1430" />
+              <mxPoint x="759" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1647" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#6D8764;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FxisBmWo4H91Jbu_wnZ3-1591" target="FxisBmWo4H91Jbu_wnZ3-1597">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1298" y="1571.07" as="targetPoint" />
+            <mxPoint x="1038" y="1490.07" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="651" y="1425" />
+              <mxPoint x="560" y="1425" />
+              <mxPoint x="560" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1648" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#6D8764;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FxisBmWo4H91Jbu_wnZ3-1591" target="FxisBmWo4H91Jbu_wnZ3-1601">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1138" y="1639.5" as="targetPoint" />
+            <mxPoint x="708" y="1590" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="630" y="1359" />
+              <mxPoint x="630" y="1380" />
+              <mxPoint x="421" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1650" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#1699D3;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FxisBmWo4H91Jbu_wnZ3-1551" target="FxisBmWo4H91Jbu_wnZ3-1606">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="842" y="675" as="targetPoint" />
+            <mxPoint x="901.0000000000005" y="458.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxisBmWo4H91Jbu_wnZ3-1653" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeWidth=2;strokeColor=#736CA8;endArrow=none;endFill=0;" edge="1" parent="1" source="1354" target="FxisBmWo4H91Jbu_wnZ3-1616">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1531" y="1575" as="targetPoint" />
+            <mxPoint x="1392" y="1311.9999999999998" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1541" y="1281" />
+              <mxPoint x="1541" y="1485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

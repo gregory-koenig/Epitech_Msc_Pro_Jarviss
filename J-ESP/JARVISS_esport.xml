@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2021-03-22T19:56:51.493Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="7JIBi4UFFFzD43k511Kj" version="14.5.0" type="device">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="2844" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2427" pageHeight="1739" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1350" value="Market" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=23;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="452.4" y="680" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1351" value="Actors" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=23;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="904.2" y="320" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1352" value="Emotion" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=23;fontColor=#FFFFFF;align=center;strokeWidth=3;strokeColor=none;fontStyle=1;fillColor=#736CA8;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="370" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" source="1515" target="1350" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1360" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;" parent="1" source="1515" target="1351" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1361" style="endArrow=none;strokeWidth=6;html=1;strokeColor=#736CA8;" parent="1" source="1515" target="1352" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1363" style="endArrow=none;strokeWidth=6;strokeColor=#736CA8;html=1;" parent="1" source="1515" target="1516" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1371" value="&lt;a href=&quot;https://www.eu-startups.com/2018/12/top-10-european-players-in-esports/&quot;&gt;Promising startups&lt;/a&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="90" y="700" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1372" value="&lt;a href=&quot;https://www.esports.net/wiki/guides/how-to-start-esports-business/&quot;&gt;How to start&lt;/a&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="212.4" y="470" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1373" value="&lt;a href=&quot;https://www.youtube.com/watch?v=KPPAc_OI9c4&quot;&gt;Brands&lt;/a&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="112.4" y="830" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1374" value="&lt;a href=&quot;https://comparecamp.com/esports-statistics/&quot;&gt;Market&#39;s statistics&lt;/a&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="480" y="970" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1383" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fontColor=#FFFFFF;fontStyle=1" parent="1" source="1350" target="1371" edge="1">
+          <mxGeometry x="-219.85" y="40" width="100" height="100" as="geometry">
+            <mxPoint x="-219.85" y="140" as="sourcePoint" />
+            <mxPoint x="-119.85" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1384" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fontColor=#FFFFFF;fontStyle=1" parent="1" source="1350" target="1372" edge="1">
+          <mxGeometry x="-219.85" y="40" width="100" height="100" as="geometry">
+            <mxPoint x="-219.85" y="140" as="sourcePoint" />
+            <mxPoint x="-119.85" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1385" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fontColor=#FFFFFF;fontStyle=1" parent="1" source="1350" target="1373" edge="1">
+          <mxGeometry x="-219.85" y="40" width="100" height="100" as="geometry">
+            <mxPoint x="-219.85" y="140" as="sourcePoint" />
+            <mxPoint x="-119.85" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1386" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fontColor=#FFFFFF;fontStyle=1" parent="1" source="1350" target="1374" edge="1">
+          <mxGeometry x="-213.12" y="55" width="100" height="100" as="geometry">
+            <mxPoint x="640.422099965528" y="294.7343718199156" as="sourcePoint" />
+            <mxPoint x="-113.12" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.youtube.com/watch?v=Hndr5kdNn-8&quot;&gt;Schools&lt;/a&gt;" id="1396">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#64BBE2;" parent="1" vertex="1">
+            <mxGeometry x="262.4" y="942.5" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1397" value="&lt;a href=&quot;https://www.youtube.com/watch?v=7cicL53J0Kg&quot; style=&quot;font-size: 20px;&quot;&gt;Things you didn&#39;t know&lt;/a&gt;" style="rounded=1;fillColor=#e3c800;strokeColor=#B09500;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1130" width="200" height="75" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.youtube.com/watch?v=lVfU6YojLsQ&quot;&gt;Gamers&lt;/a&gt;" id="1398">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="629.75" y="153.85" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1408" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#64BBE2;" parent="1" source="1350" target="1396" edge="1">
+          <mxGeometry x="85.15" y="-20" width="100" height="100" as="geometry">
+            <mxPoint x="85.15" y="80" as="sourcePoint" />
+            <mxPoint x="185.15" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1409" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#B09500;html=1;fontStyle=1;fillColor=#e3c800;" parent="1" source="1515" target="1397" edge="1">
+          <mxGeometry x="102.75" y="40" width="100" height="100" as="geometry">
+            <mxPoint x="1370" y="630" as="sourcePoint" />
+            <mxPoint x="202.75" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1410" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontStyle=1" parent="1" source="1351" target="1398" edge="1">
+          <mxGeometry x="102.75" y="40" width="100" height="100" as="geometry">
+            <mxPoint x="102.75" y="140" as="sourcePoint" />
+            <mxPoint x="202.75" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.youtube.com/watch?v=eC4Z3J3DD9o&quot;&gt;Scandals&lt;/a&gt;" id="1415">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#A29DC5;" parent="1" vertex="1">
+            <mxGeometry x="1890" y="310" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://www.youtube.com/watch?v=mYG1DA4vd-4&quot;&gt;Moments&lt;/a&gt;" id="1417">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#A29DC5;" parent="1" vertex="1">
+            <mxGeometry x="1880" y="220" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1426" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#A29DC5;" parent="1" source="1352" target="1415" edge="1">
+          <mxGeometry x="-130" y="304.75" width="100" height="100" as="geometry">
+            <mxPoint x="-130" y="404.75" as="sourcePoint" />
+            <mxPoint x="-30" y="304.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1428" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#A29DC5;" parent="1" source="1352" target="1417" edge="1">
+          <mxGeometry x="-130" y="304.75" width="100" height="100" as="geometry">
+            <mxPoint x="-130" y="404.75" as="sourcePoint" />
+            <mxPoint x="-30" y="304.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 64px&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Esports&quot;&gt;eSport&lt;/a&gt;&lt;/font&gt;" id="1515">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
+            <mxGeometry x="1070" y="730" width="270" height="270" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1516" value="&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_esports_leagues_and_tournaments&quot;&gt;Competition&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=23;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1170" y="1200" width="150" height="150" as="geometry" />
+        </mxCell>
+        <UserObject label="Tournaments" id="1519">
+          <mxCell style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="1390" y="1600" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://www.esportsearnings.com/&quot;&gt;Prizes&lt;/a&gt;" id="1520">
+          <mxCell style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="910" y="1450" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1521" value="Leagues" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="1430" width="150" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.lineups.com/esports/biggest-esports-live-events-in-history/&quot;&gt;Live events&lt;/a&gt;" id="1523">
+          <mxCell style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="1170" y="1510" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1531" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;fontStyle=1" parent="1" source="1516" target="1519" edge="1">
+          <mxGeometry x="-671.25" y="565" width="100" height="100" as="geometry">
+            <mxPoint x="-671.25" y="665" as="sourcePoint" />
+            <mxPoint x="-571.25" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1532" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;fontStyle=1" parent="1" source="1516" target="1520" edge="1">
+          <mxGeometry x="-1035.25" y="415" width="100" height="100" as="geometry">
+            <mxPoint x="-1035.25" y="515" as="sourcePoint" />
+            <mxPoint x="-935.25" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1533" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;fontStyle=1" parent="1" source="1516" target="1521" edge="1">
+          <mxGeometry x="-671.25" y="565" width="100" height="100" as="geometry">
+            <mxPoint x="-671.25" y="665" as="sourcePoint" />
+            <mxPoint x="-571.25" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1535" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;fontStyle=1" parent="1" source="1516" target="1523" edge="1">
+          <mxGeometry x="-671.25" y="565" width="100" height="100" as="geometry">
+            <mxPoint x="-671.25" y="665" as="sourcePoint" />
+            <mxPoint x="-571.25" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Sponsors" id="WotiajgvWy7iZOebvNId-1546">
+          <mxCell style="rounded=1;strokeWidth=3;shadow=0;html=1;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#A29DC5;strokeColor=none;" parent="1" vertex="1">
+            <mxGeometry x="550" y="1600" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1549" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;a href=&quot;https://en.owayo.com/magazine/esports-women-woen.htm#:~:text=While%20half%20of%20all%20gamers,of%20the%20professional%20esports%20scene.&amp;amp;text=Only%20few%20women%20are%20involved,casually%2C%2047%25%20are%20women.&quot; style=&quot;font-size: 20px&quot;&gt;Why women are underrepresented?&lt;/a&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;fillColor=#e3c800;strokeColor=#B09500;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="720" y="530" width="200" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1550" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#B09500;html=1;fontStyle=1;fillColor=#e3c800;" parent="1" source="1515" target="WotiajgvWy7iZOebvNId-1549" edge="1">
+          <mxGeometry x="-577.96" y="-80" width="100" height="100" as="geometry">
+            <mxPoint x="549.9993461317945" y="665.0418740186662" as="sourcePoint" />
+            <mxPoint x="-477.96000000000004" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.statista.com/statistics/490480/global-esports-audience-size-viewer-type/&quot;&gt;Viewers&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1554">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="1190" y="103.85" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1555" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontStyle=1" parent="1" source="WotiajgvWy7iZOebvNId-1606" target="WotiajgvWy7iZOebvNId-1554" edge="1">
+          <mxGeometry x="268.5" y="83.85" width="100" height="100" as="geometry">
+            <mxPoint x="1347.2170824512632" y="437.69875264621135" as="sourcePoint" />
+            <mxPoint x="368.5" y="83.85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.upfluence.com/influencer-marketing/15-twitch-gaming-streamers-worth-watching&quot;&gt;Streamers&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1556">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="960" y="110" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1557" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontStyle=1" parent="1" source="1351" target="WotiajgvWy7iZOebvNId-1556" edge="1">
+          <mxGeometry x="318.75" y="-23.849999999999994" width="100" height="100" as="geometry">
+            <mxPoint x="1397.4670824512632" y="329.9987526462113" as="sourcePoint" />
+            <mxPoint x="418.75" y="-23.849999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Spectators" id="WotiajgvWy7iZOebvNId-1558">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="1240" y="370" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1559" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontStyle=1" parent="1" source="WotiajgvWy7iZOebvNId-1606" target="WotiajgvWy7iZOebvNId-1558" edge="1">
+          <mxGeometry x="228.5" y="213.85" width="100" height="100" as="geometry">
+            <mxPoint x="1307.2170824512632" y="567.6987526462113" as="sourcePoint" />
+            <mxPoint x="1589.75" y="273.85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1560" value="&lt;a href=&quot;https://www.esportsportal.com/everything-you-want-to-know-about-careers-in-esports/&quot;&gt;Careers&lt;/a&gt;" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#64BBE2;" parent="1" vertex="1">
+          <mxGeometry x="412.4" y="440" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1561" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontColor=#FFFFFF;fontStyle=1;strokeColor=#64BBE2;" parent="1" source="1350" target="WotiajgvWy7iZOebvNId-1560" edge="1">
+          <mxGeometry x="-233.12" y="-348.98" width="100" height="100" as="geometry">
+            <mxPoint x="470.68956187373203" y="350.00015334186173" as="sourcePoint" />
+            <mxPoint x="-133.12" y="-348.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.youtube.com/watch?v=J-_mX-AYzJw&quot;&gt;Cheating&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1562">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#F08E81;" parent="1" vertex="1">
+            <mxGeometry x="2100" y="650" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1563" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#F08E81;" parent="1" source="WotiajgvWy7iZOebvNId-1637" target="WotiajgvWy7iZOebvNId-1562" edge="1">
+          <mxGeometry x="248.84000000000003" y="962.42" width="100" height="100" as="geometry">
+            <mxPoint x="2323.9969714110985" y="1799.9977202906362" as="sourcePoint" />
+            <mxPoint x="348.84000000000003" y="962.42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1564" value="&lt;a href=&quot;https://www.theguardian.com/sport/2017/jun/16/top-addiction-young-people-gaming-esports&quot;&gt;The prize of its success&lt;/a&gt;" style="rounded=1;fillColor=#e3c800;strokeColor=#B09500;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="930" width="200" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1565" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#B09500;html=1;fontStyle=1;fillColor=#e3c800;" parent="1" source="1515" target="WotiajgvWy7iZOebvNId-1564" edge="1">
+          <mxGeometry x="82.75" y="459.15" width="100" height="100" as="geometry">
+            <mxPoint x="1214.0372286837232" y="1210.0048965107894" as="sourcePoint" />
+            <mxPoint x="182.75" y="459.15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://win.gg/news/3353/study-tracks-differences-between-pro-and-casual-fps-players&quot;&gt;Pro Vs&lt;br&gt;&amp;nbsp;amateur&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1566">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="540" y="53.85" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1567" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontStyle=1;" parent="1" source="1398" target="WotiajgvWy7iZOebvNId-1566" edge="1">
+          <mxGeometry x="-207.5" y="43.85" width="100" height="100" as="geometry">
+            <mxPoint x="871.2170824512632" y="397.69875264621135" as="sourcePoint" />
+            <mxPoint x="-107.5" y="43.85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.esportstalk.com/blog/casual-vs-hardcore-7492/&quot;&gt;Casual Vs Hardcore&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1568">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="754.2" y="40" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1569" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontStyle=1;" parent="1" source="1398" target="WotiajgvWy7iZOebvNId-1568" edge="1">
+          <mxGeometry x="6.699999999999989" y="30" width="100" height="100" as="geometry">
+            <mxPoint x="1079.7514705882352" y="210" as="sourcePoint" />
+            <mxPoint x="106.69999999999999" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.esportsearnings.com/players&quot;&gt;Money&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1570">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#A29DC5;" parent="1" vertex="1">
+            <mxGeometry x="820" y="1629.9999999999998" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1571" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;fontStyle=1" parent="1" source="1520" target="WotiajgvWy7iZOebvNId-1570" edge="1">
+          <mxGeometry x="-830.4000000000001" y="666.69" width="100" height="100" as="geometry">
+            <mxPoint x="1108.0368858096963" y="1488.3204560814163" as="sourcePoint" />
+            <mxPoint x="-730.4000000000001" y="666.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.youtube.com/channel/UCFgzA3BtbDolIzhn5cOETKw&quot;&gt;Awards&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1572">
+          <mxCell style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="1090" y="1630" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1573" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;fontStyle=1" parent="1" source="1523" target="WotiajgvWy7iZOebvNId-1572" edge="1">
+          <mxGeometry x="-835.0000000000001" y="588.37" width="100" height="100" as="geometry">
+            <mxPoint x="786.9798421596105" y="1400" as="sourcePoint" />
+            <mxPoint x="1144.8125" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.youtube.com/watch?v=stjp3h38HCM&quot;&gt;Plays&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1574">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#A29DC5;" parent="1" vertex="1">
+            <mxGeometry x="1900" y="490" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1575" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#A29DC5;" parent="1" source="1352" target="WotiajgvWy7iZOebvNId-1574" edge="1">
+          <mxGeometry x="-139.85" y="184.5" width="100" height="100" as="geometry">
+            <mxPoint x="1679.995504203774" y="514.3114966988142" as="sourcePoint" />
+            <mxPoint x="-39.849999999999994" y="184.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Teams" id="WotiajgvWy7iZOebvNId-1576">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="257.6" y="140" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1577" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontStyle=1" parent="1" source="1398" target="WotiajgvWy7iZOebvNId-1576" edge="1">
+          <mxGeometry x="-793.65" y="-50" width="100" height="100" as="geometry">
+            <mxPoint x="285.0670824512632" y="303.8487526462113" as="sourcePoint" />
+            <mxPoint x="-693.65" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1578" value="" style="curved=1;endArrow=none;html=1;fontSize=20;fontColor=#FFFFFF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;dashed=1;strokeColor=#999999;" parent="1" source="WotiajgvWy7iZOebvNId-1546" target="1373" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="830" as="sourcePoint" />
+            <mxPoint x="500" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="1330" />
+              <mxPoint x="110" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1579" value="" style="curved=1;endArrow=none;html=1;fontSize=20;fontColor=#FFFFFF;endFill=0;dashed=1;strokeColor=#999999;" parent="1" source="WotiajgvWy7iZOebvNId-1546" target="WotiajgvWy7iZOebvNId-1576" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1220" as="sourcePoint" />
+            <mxPoint x="370" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="1420" />
+              <mxPoint x="20" y="1050" />
+              <mxPoint x="60" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1580" value="" style="curved=1;endArrow=none;html=1;fontSize=20;fontColor=#FFFFFF;endFill=0;dashed=1;strokeColor=#999999;" parent="1" source="WotiajgvWy7iZOebvNId-1562" target="1415" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1220" as="sourcePoint" />
+            <mxPoint x="1990" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2270" y="440" />
+              <mxPoint x="2150" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1581" value="" style="curved=1;endArrow=none;html=1;fontSize=20;fontColor=#FFFFFF;endFill=0;dashed=1;strokeColor=#999999;" parent="1" source="1352" target="1351" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1230" as="sourcePoint" />
+            <mxPoint x="295" y="1049.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1420" y="470" />
+              <mxPoint x="1250" y="540" />
+              <mxPoint x="1140" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Journalists" id="WotiajgvWy7iZOebvNId-1584">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="410" y="270" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1585" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontStyle=1" parent="1" source="1351" target="WotiajgvWy7iZOebvNId-1584" edge="1">
+          <mxGeometry x="-261.25" y="80" width="100" height="100" as="geometry">
+            <mxPoint x="422.63013843004865" y="320.761501598299" as="sourcePoint" />
+            <mxPoint x="-161.25" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1586" value="" style="curved=1;endArrow=none;html=1;fontSize=20;fontColor=#FFFFFF;endFill=0;dashed=1;strokeColor=#999999;" parent="1" source="WotiajgvWy7iZOebvNId-1560" target="1351" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1220" as="sourcePoint" />
+            <mxPoint x="277.66451612903256" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="490" />
+              <mxPoint x="750" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1588" value="&lt;a href=&quot;https://www.forbes.com/sites/jamesayles/2019/10/17/how-technology-can-help-esports-continue-its-astonishing-growth/?sh=449c0fde4219&quot;&gt;Techno&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=23;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="619.9999999999999" y="1110" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1589" style="endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;" parent="1" source="1515" target="WotiajgvWy7iZOebvNId-1588" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1070.0009551997382" y="1075.2510147565913" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://community.connection.com/an-introductory-guide-to-esports-technology/&quot;&gt;Devices&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1590">
+          <mxCell style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="549.9999999999999" y="1400" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://www.youtube.com/watch?v=blIsKcLWF5w&quot;&gt;Virtual&lt;br&gt;Reality&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1591">
+          <mxCell style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="329.9999999999999" y="1300" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1592" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontStyle=1" parent="1" source="WotiajgvWy7iZOebvNId-1588" target="WotiajgvWy7iZOebvNId-1590" edge="1">
+          <mxGeometry x="-2289.88" y="790" width="100" height="100" as="geometry">
+            <mxPoint x="-2289.88" y="890" as="sourcePoint" />
+            <mxPoint x="-2189.88" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1593" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontStyle=1" parent="1" source="WotiajgvWy7iZOebvNId-1588" target="WotiajgvWy7iZOebvNId-1591" edge="1">
+          <mxGeometry x="-2289.88" y="790" width="100" height="100" as="geometry">
+            <mxPoint x="-2289.88" y="890" as="sourcePoint" />
+            <mxPoint x="-2189.88" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.youtube.com/watch?v=vw4tTF5u0l4&quot;&gt;Augmented Reality&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1594">
+          <mxCell style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="320" y="1120" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1595" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;fontStyle=1" parent="1" source="WotiajgvWy7iZOebvNId-1588" target="WotiajgvWy7iZOebvNId-1594" edge="1">
+          <mxGeometry x="-2299.73" y="669.75" width="100" height="100" as="geometry">
+            <mxPoint x="-479.884495796226" y="999.5614966988142" as="sourcePoint" />
+            <mxPoint x="-2199.73" y="669.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://techfruit.com/focus/5-esports-trends-for-2021/&quot;&gt;Trends&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1602">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#64BBE2;" parent="1" vertex="1">
+            <mxGeometry x="90" y="580" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1603" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#64BBE2;" parent="1" source="1350" target="WotiajgvWy7iZOebvNId-1602" edge="1">
+          <mxGeometry x="-144.85" y="40" width="100" height="100" as="geometry">
+            <mxPoint x="285.0405969787538" y="749.19634663543" as="sourcePoint" />
+            <mxPoint x="-44.85" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.zerodensity.tv/euen/realitys-ar-graphic-rendered-dragon-crashed-the-stage-at-the-league-of-legends-finals-opening-ceremony/&quot;&gt;Fan&lt;br&gt;experience&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1604">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#A29DC5;" parent="1" vertex="1">
+            <mxGeometry x="1590" y="120" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1605" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#A29DC5;" parent="1" source="1352" target="WotiajgvWy7iZOebvNId-1604" edge="1">
+          <mxGeometry x="-116.06" y="24.75" width="100" height="100" as="geometry">
+            <mxPoint x="1710.0045760957528" y="446.47375611122425" as="sourcePoint" />
+            <mxPoint x="-16.060000000000002" y="24.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Fans" id="WotiajgvWy7iZOebvNId-1606">
+          <mxCell style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+            <mxGeometry x="1130.0000000000002" y="240" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1607" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;fontStyle=1" parent="1" source="1351" target="WotiajgvWy7iZOebvNId-1606" edge="1">
+          <mxGeometry x="692.84" y="-93.85" width="100" height="100" as="geometry">
+            <mxPoint x="2046.9808290042283" y="253.4898361960035" as="sourcePoint" />
+            <mxPoint x="792.84" y="-93.85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1610" value="Ustensiles" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=23;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1620" y="1150" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1611" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" source="1515" target="WotiajgvWy7iZOebvNId-1610" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2940.8190103170946" y="1712.6181983186798" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1612" value="Social media" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1990" y="1310" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1613" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fontColor=#FFFFFF;fontStyle=1" parent="1" source="WotiajgvWy7iZOebvNId-1610" target="WotiajgvWy7iZOebvNId-1612" edge="1">
+          <mxGeometry x="1757.75" y="970" width="100" height="100" as="geometry">
+            <mxPoint x="1757.75" y="1070" as="sourcePoint" />
+            <mxPoint x="1857.75" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1616" value="&lt;a href=&quot;https://www.lineups.com/esports/top-10-esports-games/&quot;&gt;Video games&lt;/a&gt;" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#64BBE2;" parent="1" vertex="1">
+          <mxGeometry x="2060" y="1130" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1617" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontColor=#FFFFFF;fontStyle=1;strokeColor=#64BBE2;" parent="1" source="WotiajgvWy7iZOebvNId-1610" target="WotiajgvWy7iZOebvNId-1616" edge="1">
+          <mxGeometry x="1744.48" y="581.02" width="100" height="100" as="geometry">
+            <mxPoint x="2448.289561873732" y="1280.0001533418617" as="sourcePoint" />
+            <mxPoint x="1844.48" y="581.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Streaming platforms" id="WotiajgvWy7iZOebvNId-1618">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#64BBE2;" parent="1" vertex="1">
+            <mxGeometry x="1840" y="1450" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1619" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#64BBE2;" parent="1" source="WotiajgvWy7iZOebvNId-1610" target="WotiajgvWy7iZOebvNId-1618" edge="1">
+          <mxGeometry x="1832.75" y="970" width="100" height="100" as="geometry">
+            <mxPoint x="2262.640596978754" y="1679.19634663543" as="sourcePoint" />
+            <mxPoint x="1932.75" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://discordservers.com/browse/esports&quot;&gt;Discord&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1620">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#64BBE2;" parent="1" vertex="1">
+            <mxGeometry x="2220.0000000000005" y="1290" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1621" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#64BBE2;" parent="1" source="WotiajgvWy7iZOebvNId-1612" target="WotiajgvWy7iZOebvNId-1620" edge="1">
+          <mxGeometry x="2497.49" y="1111.24" width="100" height="100" as="geometry">
+            <mxPoint x="2160.0011706209407" y="1350.0032337554705" as="sourcePoint" />
+            <mxPoint x="2597.49" y="1111.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.investopedia.com/articles/investing/082115/how-twitchtv-works-and-its-business-model.asp&quot;&gt;Twitch.tv&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1622">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#64BBE2;" parent="1" vertex="1">
+            <mxGeometry x="2080.0000000000005" y="1590" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1624" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#64BBE2;" parent="1" source="WotiajgvWy7iZOebvNId-1618" target="WotiajgvWy7iZOebvNId-1622" edge="1">
+          <mxGeometry x="2507.49" y="1190" width="100" height="100" as="geometry">
+            <mxPoint x="2140" y="1321.866455078125" as="sourcePoint" />
+            <mxPoint x="2250" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.hitbox.tv/&quot;&gt;Hitbox.tv&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1625">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#64BBE2;" parent="1" vertex="1">
+            <mxGeometry x="1820.0000000000005" y="1590" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1626" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#64BBE2;" parent="1" source="WotiajgvWy7iZOebvNId-1618" target="WotiajgvWy7iZOebvNId-1625" edge="1">
+          <mxGeometry x="2527.49" y="1270" width="100" height="100" as="geometry">
+            <mxPoint x="2120" y="1478.2252292552002" as="sourcePoint" />
+            <mxPoint x="2270" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1632" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;fontStyle=1" parent="1" source="1520" target="WotiajgvWy7iZOebvNId-1572" edge="1">
+          <mxGeometry x="-875.2500000000001" y="628.37" width="100" height="100" as="geometry">
+            <mxPoint x="1188.0833333333335" y="1600" as="sourcePoint" />
+            <mxPoint x="880" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1634" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;fontStyle=1;" parent="1" source="1523" target="1519" edge="1">
+          <mxGeometry x="-825.0000000000001" y="598.37" width="100" height="100" as="geometry">
+            <mxPoint x="1238.3333333333335" y="1570" as="sourcePoint" />
+            <mxPoint x="1191.6666666666665" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1636" style="endArrow=none;strokeWidth=6;html=1;strokeColor=#E85642;" parent="1" source="1515" target="WotiajgvWy7iZOebvNId-1637" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1568.0027021622627" y="-360.001166141916" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1637" value="&lt;a href=&quot;https://www.liebertpub.com/doi/pdfplus/10.1089/glr2.2019.2357&quot;&gt;Ethics&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=23;fontColor=#FFFFFF;align=center;strokeWidth=3;strokeColor=none;fontStyle=1;fillColor=#E85642;" parent="1" vertex="1">
+          <mxGeometry x="1780" y="710.0000000000001" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1639" value="&lt;a href=&quot;https://www.gameskinny.com/rt76w/contract-killers-why-the-exploitation-in-esports-has-to-stop&quot;&gt;Exploitation&lt;/a&gt;" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#F08E81;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="857.25" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1641" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#F08E81;" parent="1" source="WotiajgvWy7iZOebvNId-1637" target="WotiajgvWy7iZOebvNId-1639" edge="1">
+          <mxGeometry x="638.75" y="-223.06999999999994" width="100" height="100" as="geometry">
+            <mxPoint x="638.75" y="-123.06999999999994" as="sourcePoint" />
+            <mxPoint x="738.75" y="-223.06999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.youtube.com/watch?v=D9YNAXZSgsA&quot;&gt;Doping&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1642">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#F08E81;" parent="1" vertex="1">
+            <mxGeometry x="1960" y="969.75" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1643" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#F08E81;" parent="1" source="WotiajgvWy7iZOebvNId-1637" target="WotiajgvWy7iZOebvNId-1642" edge="1">
+          <mxGeometry x="648.75" y="-108.28999999999996" width="100" height="100" as="geometry">
+            <mxPoint x="2433.8344700280522" y="1140.0005484275803" as="sourcePoint" />
+            <mxPoint x="748.75" y="-108.28999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.businessinsider.com/the-rise-of-esports-betting-and-gambling-2018-1?IR=T&quot;&gt;Gambling&lt;/a&gt;" id="WotiajgvWy7iZOebvNId-1644">
+          <mxCell style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;fillColor=#F08E81;" parent="1" vertex="1">
+            <mxGeometry x="2160" y="750" width="150" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WotiajgvWy7iZOebvNId-1645" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;fontStyle=1;strokeColor=#F08E81;" parent="1" source="WotiajgvWy7iZOebvNId-1637" target="WotiajgvWy7iZOebvNId-1644" edge="1">
+          <mxGeometry x="514.92" y="-355" width="100" height="100" as="geometry">
+            <mxPoint x="2300.0044700280523" y="893.2905484275802" as="sourcePoint" />
+            <mxPoint x="614.92" y="-355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1646" value="" style="curved=1;endArrow=none;html=1;fontSize=20;fontColor=#FFFFFF;endFill=0;dashed=1;strokeColor=#999999;" parent="1" source="WotiajgvWy7iZOebvNId-1604" target="WotiajgvWy7iZOebvNId-1606" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2000" y="545.2941176470588" as="sourcePoint" />
+            <mxPoint x="1189.75" y="306.48613515777697" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1500" y="210" />
+              <mxPoint x="1350" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1654" value="" style="curved=1;endArrow=none;html=1;fontSize=20;fontColor=#FFFFFF;endFill=0;dashed=1;strokeColor=#999999;" parent="1" source="WotiajgvWy7iZOebvNId-1546" target="WotiajgvWy7iZOebvNId-1590" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1550" as="sourcePoint" />
+            <mxPoint x="197.4000000000001" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1520" />
+              <mxPoint x="680" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WotiajgvWy7iZOebvNId-1655" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;fontStyle=1" parent="1" source="WotiajgvWy7iZOebvNId-1546" target="1520" edge="1">
+          <mxGeometry x="-820.4000000000001" y="676.69" width="100" height="100" as="geometry">
+            <mxPoint x="915.25" y="1570" as="sourcePoint" />
+            <mxPoint x="915.25" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2u1BVaGO1T-Y4thNNLNh-1535" value="&lt;a href=&quot;https://esportsobserver.com/youtubes-ad-rev-esports/&quot;&gt;Youtube.com&lt;/a&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;whiteSpace=wrap;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="1460" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2u1BVaGO1T-Y4thNNLNh-1536" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;fontColor=#FFFFFF;fontStyle=1" edge="1" parent="1" target="2u1BVaGO1T-Y4thNNLNh-1535" source="WotiajgvWy7iZOebvNId-1618">
+          <mxGeometry x="1979.28" y="1110" width="100" height="100" as="geometry">
+            <mxPoint x="1988.4668611513155" y="1386.2152776954727" as="sourcePoint" />
+            <mxPoint x="2079.28" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

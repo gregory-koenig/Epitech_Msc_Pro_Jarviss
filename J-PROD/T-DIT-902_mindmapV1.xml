@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2021-02-08T13:30:48.711Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="zzxiRYenrgvjtWv3jYGK" version="14.3.0" type="device">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="4063" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&lt;b style=&quot;font-size: 20px&quot;&gt;PRODUCT&lt;br&gt;MANAGEMENT&lt;/b&gt;" link="https://www.productboard.com/blog/product-owner-vs-product-manager/" id="2z6pbLF9syvMWNB0rCqv-1781">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=4;fontSize=16;fontStyle=0" parent="1" vertex="1">
+            <mxGeometry x="1140" y="789" width="210" height="115.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1789" value="" style="edgeStyle=none;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;curved=1;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1781" target="2z6pbLF9syvMWNB0rCqv-1791" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570.0000000000016" y="-149.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Design thinking" link="https://productschool.com/blog/product-management-2/design-thinking-product-management/" id="2z6pbLF9syvMWNB0rCqv-1791">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=16;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+            <mxGeometry x="537.75" y="639" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Customer journey" link="https://medium.com/uxcam/customer-journey-for-product-managers-c1f01bc4b9be" id="2z6pbLF9syvMWNB0rCqv-1792">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+            <mxGeometry x="330" y="680" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Prototypes and wireframes" link="https://www.productplan.com/how-product-managers-can-use-wireframes/" id="2z6pbLF9syvMWNB0rCqv-1794">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+            <mxGeometry x="360.86" y="549" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1799" value="" style="edgeStyle=none;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;curved=1;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1781" target="2z6pbLF9syvMWNB0rCqv-1801" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="664.0033790528213" y="352.49871636249077" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Vision" link="https://www.productplan.com/glossary/product-vision/" id="2z6pbLF9syvMWNB0rCqv-1801">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=16;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+            <mxGeometry x="740" y="488.5" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="User needs" link="https://uxdesign.cc/using-needs-statements-and-user-stories-fc9af5572e8d" id="2z6pbLF9syvMWNB0rCqv-1802">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+            <mxGeometry x="710" y="274.5" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1804" value="Alignment with stakeholders" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="503.8599999999999" y="473.47" width="124" height="44.5" as="geometry" />
+        </mxCell>
+        <UserObject label="Problem statement" link="https://maa1.medium.com/my-product-management-toolkit-4-problem-statements-27e7ebe8804d" id="2z6pbLF9syvMWNB0rCqv-1808">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+            <mxGeometry x="560" y="339.97" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1819" value="" style="edgeStyle=none;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;curved=1;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1781" target="2z6pbLF9syvMWNB0rCqv-1821" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060.0033790528214" y="1075.0287163624907" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Technical aspects" link="https://www.careerexplorer.com/careers/technical-product-manager/" id="2z6pbLF9syvMWNB0rCqv-1821">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=16;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+            <mxGeometry x="1378.8600000000001" y="1163.67" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Requirement gathering" link="https://thedigitalprojectmanager.com/requirements-gathering-guide/" id="2z6pbLF9syvMWNB0rCqv-1822">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+            <mxGeometry x="1486" y="1371.75" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Writing specifications" link="https://theproductmanager.com/topics/product-specification/" id="2z6pbLF9syvMWNB0rCqv-1824">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+            <mxGeometry x="1680" y="1204.25" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Agile development" link="https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-product-management" id="2z6pbLF9syvMWNB0rCqv-1826">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+            <mxGeometry x="1337" y="1348.67" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Architecture of building blocks" link="https://www.productplan.com/glossary/product-architecture/" id="2z6pbLF9syvMWNB0rCqv-1828">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+            <mxGeometry x="1631" y="1344.25" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1835" value="" style="edgeStyle=none;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;curved=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1117.073437115936" y="-761.75" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1102.86" y="-1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1845" value="" style="edgeStyle=none;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;curved=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1977.073437115937" y="-711.75" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1962.8600000000001" y="-1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1852" value="" style="edgeStyle=none;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;curved=1;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1781" target="2z6pbLF9syvMWNB0rCqv-1854" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060.0033790528214" y="574.7787163624907" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Project management" link="https://www.productplan.com/learn/product-management-versus-project-management/" id="2z6pbLF9syvMWNB0rCqv-1854">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=16;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="1120" y="404.5" width="164" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Story map" link="https://www.christianstrunk.com/blog/how-to-get-started-with-user-story-mapping" id="2z6pbLF9syvMWNB0rCqv-1858">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="1350" y="319" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Interdependencies priorization" link="https://www.jrothman.com/pragmaticmanager/2017/01/understand-your-project-interdependencies/" id="2z6pbLF9syvMWNB0rCqv-1861">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="1250" y="204.47" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Backlog management" link="https://280group.com/product-management-blog/product-backlog-management-product-managers/" id="2z6pbLF9syvMWNB0rCqv-1862">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="950.0000000000005" y="264.5" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="User stories" link="https://uxdesign.cc/using-needs-statements-and-user-stories-fc9af5572e8d" id="2z6pbLF9syvMWNB0rCqv-1864">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="1095" y="170" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1867" value="" style="edgeStyle=none;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;curved=1;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1781" target="2z6pbLF9syvMWNB0rCqv-1869" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060.0033790528214" y="652.7487163624908" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Market research" link="https://productschool.com/blog/product-management-2/product-management-skills-market-research/" id="2z6pbLF9syvMWNB0rCqv-1869">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=16;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="1640" y="474.5" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Market driven" link="https://brainmates.com.au/brainrants/what-does-a-market-driven-product-really-mean/" id="2z6pbLF9syvMWNB0rCqv-1872">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="1578.86" y="300.97" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Data analytics" link="https://mixpanel.com/blog/what-is-product-management-analytics/" id="2z6pbLF9syvMWNB0rCqv-1874">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="1920.0000000000002" y="428.97" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Product market fit" link="https://productschool.com/blog/product-management-2/understanding-product-market-fit/" id="2z6pbLF9syvMWNB0rCqv-1876">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="1769.9999999999998" y="300.97" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1878" value="" style="endArrow=classic;html=1;strokeColor=#d79b00;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#ffe6cc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1821" target="2z6pbLF9syvMWNB0rCqv-1824" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2286" y="1864.25" as="sourcePoint" />
+            <mxPoint x="2336" y="1814.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1879" value="" style="endArrow=classic;html=1;strokeColor=#d79b00;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#ffe6cc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1821" target="2z6pbLF9syvMWNB0rCqv-1828" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540.8600000000001" y="1224.3310792751377" as="sourcePoint" />
+            <mxPoint x="1774" y="1163.2637782648208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1880" value="" style="endArrow=classic;html=1;strokeColor=#d79b00;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#ffe6cc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1821" target="2z6pbLF9syvMWNB0rCqv-1826" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1550.8600000000001" y="1234.3310792751377" as="sourcePoint" />
+            <mxPoint x="1784" y="1173.2637782648208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1881" value="" style="endArrow=classic;html=1;strokeColor=#d79b00;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#ffe6cc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1821" target="2z6pbLF9syvMWNB0rCqv-1822" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1560.8600000000001" y="1244.3310792751377" as="sourcePoint" />
+            <mxPoint x="1794" y="1183.2637782648208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1882" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1791" target="2z6pbLF9syvMWNB0rCqv-1792" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669.7200000000001" y="-24.53892072486235" as="sourcePoint" />
+            <mxPoint x="902.86" y="-85.60622173517925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1884" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1791" target="2z6pbLF9syvMWNB0rCqv-1794" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="689.7200000000001" y="-4.538920724862351" as="sourcePoint" />
+            <mxPoint x="922.86" y="-65.60622173517925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1885" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1801" target="2z6pbLF9syvMWNB0rCqv-1808" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="323.8600000000001" y="-294.41892072486235" as="sourcePoint" />
+            <mxPoint x="557" y="-355.48622173517924" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1886" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1801" target="2z6pbLF9syvMWNB0rCqv-1802" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="333.8600000000001" y="-284.41892072486235" as="sourcePoint" />
+            <mxPoint x="567" y="-345.48622173517924" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1889" value="" style="endArrow=classic;html=1;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#dae8fc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1854" target="2z6pbLF9syvMWNB0rCqv-1858" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="-455.4989207248624" as="sourcePoint" />
+            <mxPoint x="1113.1399999999999" y="-516.5662217351793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1890" value="" style="endArrow=classic;html=1;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#dae8fc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1854" target="2z6pbLF9syvMWNB0rCqv-1861" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="-445.4989207248624" as="sourcePoint" />
+            <mxPoint x="1123.1399999999999" y="-506.5662217351793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1891" value="" style="endArrow=classic;html=1;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#dae8fc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1854" target="2z6pbLF9syvMWNB0rCqv-1864" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="-435.4989207248624" as="sourcePoint" />
+            <mxPoint x="1133.1399999999999" y="-496.5662217351793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1892" value="" style="endArrow=classic;html=1;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#dae8fc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1854" target="2z6pbLF9syvMWNB0rCqv-1862" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="-425.4989207248624" as="sourcePoint" />
+            <mxPoint x="1143.1399999999999" y="-486.5662217351793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1893" value="" style="endArrow=classic;html=1;strokeColor=#82b366;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#d5e8d4;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1869" target="2z6pbLF9syvMWNB0rCqv-1876" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1727.1399999999999" y="-534.4289207248623" as="sourcePoint" />
+            <mxPoint x="1960.2799999999993" y="-595.4962217351792" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1895" value="" style="endArrow=classic;html=1;strokeColor=#82b366;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#d5e8d4;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1869" target="2z6pbLF9syvMWNB0rCqv-1872" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1747.1399999999999" y="-514.4289207248623" as="sourcePoint" />
+            <mxPoint x="1980.2799999999993" y="-575.4962217351792" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1896" value="" style="endArrow=classic;html=1;strokeColor=#82b366;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#d5e8d4;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1869" target="2z6pbLF9syvMWNB0rCqv-1874" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1757.1399999999999" y="-504.42892072486234" as="sourcePoint" />
+            <mxPoint x="1990.2799999999993" y="-565.4962217351792" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1897" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1801" target="2z6pbLF9syvMWNB0rCqv-1804" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1049" y="146.57107927513778" as="sourcePoint" />
+            <mxPoint x="1282.1399999999994" y="85.50377826482088" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1899" value="" style="edgeStyle=none;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;curved=1;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1781" target="2z6pbLF9syvMWNB0rCqv-1900" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560.0033790528214" y="564.7787163624907" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1900" value="Product marketing" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=16;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1750.0000000000002" y="704.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1901" value="Branding" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="1950" y="834.5" width="124" height="44.5" as="geometry" />
+        </mxCell>
+        <UserObject label="Persona" link="https://www.prodpad.com/blog/how-to-create-great-user-personas/" id="2z6pbLF9syvMWNB0rCqv-1902">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+            <mxGeometry x="1920" y="564.5" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1903" value="GO TO market" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2030" y="654.5" width="124" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1904" value="Positioning" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2062.1400000000003" y="744.5" width="124" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1905" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1900" target="2z6pbLF9syvMWNB0rCqv-1902" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2802" y="1234.5" as="sourcePoint" />
+            <mxPoint x="2852" y="1184.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1906" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1900" target="2z6pbLF9syvMWNB0rCqv-1904" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2056.86" y="594.5810792751377" as="sourcePoint" />
+            <mxPoint x="2290" y="533.5137782648208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1907" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1900" target="2z6pbLF9syvMWNB0rCqv-1903" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2066.86" y="604.5810792751377" as="sourcePoint" />
+            <mxPoint x="2300" y="543.5137782648208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1908" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1900" target="2z6pbLF9syvMWNB0rCqv-1901" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2076.86" y="614.5810792751377" as="sourcePoint" />
+            <mxPoint x="2310" y="553.5137782648208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1909" value="" style="edgeStyle=none;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;curved=1;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1781" target="2z6pbLF9syvMWNB0rCqv-1910" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520.0033790528214" y="914.7787163624907" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="User research" link="https://productschool.com/blog/product-management-2/product-management-skills-user-research/" id="2z6pbLF9syvMWNB0rCqv-1910">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=16;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+            <mxGeometry x="1755.0000000000002" y="1007.92" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Usability testing" link="https://www.productplan.com/glossary/usability-testing/" id="2z6pbLF9syvMWNB0rCqv-1911">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+            <mxGeometry x="1894.39" y="1171.42" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="AB testing" link="https://melv1n.com/ab-testing-guide-product-managers/" id="2z6pbLF9syvMWNB0rCqv-1912">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+            <mxGeometry x="2044" y="924.5" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1913" value="Interviews" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="2108.14" y="1034.5" width="124" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1914" value="Surveys" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="2030" y="1114.5" width="124" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1915" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1910" target="2z6pbLF9syvMWNB0rCqv-1912" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2738.14" y="1654.5" as="sourcePoint" />
+            <mxPoint x="2788.14" y="1604.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1916" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1910" target="2z6pbLF9syvMWNB0rCqv-1914" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1993.0000000000002" y="1014.5810792751377" as="sourcePoint" />
+            <mxPoint x="2226.14" y="953.5137782648208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1917" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1910" target="2z6pbLF9syvMWNB0rCqv-1913" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2003.0000000000002" y="1024.5810792751377" as="sourcePoint" />
+            <mxPoint x="2236.14" y="963.5137782648208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1918" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1910" target="2z6pbLF9syvMWNB0rCqv-1911" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2013.0000000000002" y="1034.5810792751377" as="sourcePoint" />
+            <mxPoint x="2246.14" y="973.5137782648208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1919" value="" style="edgeStyle=none;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;curved=1;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1781" target="2z6pbLF9syvMWNB0rCqv-1920" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170.0033790528214" y="-425.22128363750926" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Team construction" link="https://medium.com/@itamargilad/5-tips-for-building-effective-product-management-teams-c320ce54a4bb" id="2z6pbLF9syvMWNB0rCqv-1920">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=16;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="997.1399999999999" y="1215.92" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Documentation" link="https://apphawks.com/blog/product-management-process-steps-roadmap-best-practices" id="2z6pbLF9syvMWNB0rCqv-1921">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="903" y="1368.42" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Stakeholders map" link="https://miro.com/blog/stakeholder-mapping/" id="2z6pbLF9syvMWNB0rCqv-1922">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="1164" y="1304.17" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Roles &amp;amp; responsibilities" link="https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team" id="2z6pbLF9syvMWNB0rCqv-1923">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="820" y="1268.17" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Processes" link="https://280group.com/product-management-methodology/optimal-product-process-framework/" id="2z6pbLF9syvMWNB0rCqv-1924">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="1083.1399999999999" y="1427.67" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1925" value="" style="endArrow=classic;html=1;strokeColor=#82b366;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#d5e8d4;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1920" target="2z6pbLF9syvMWNB0rCqv-1922" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="368.42" as="sourcePoint" />
+            <mxPoint x="1410" y="318.41999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1926" value="" style="endArrow=classic;html=1;strokeColor=#82b366;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#d5e8d4;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1920" target="2z6pbLF9syvMWNB0rCqv-1924" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="614.8600000000001" y="-271.49892072486233" as="sourcePoint" />
+            <mxPoint x="848" y="-332.5662217351792" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1927" value="" style="endArrow=classic;html=1;strokeColor=#82b366;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#d5e8d4;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1920" target="2z6pbLF9syvMWNB0rCqv-1923" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="624.8600000000001" y="-261.49892072486233" as="sourcePoint" />
+            <mxPoint x="858" y="-322.5662217351792" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1928" value="" style="endArrow=classic;html=1;strokeColor=#82b366;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#d5e8d4;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1920" target="2z6pbLF9syvMWNB0rCqv-1921" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="634.8600000000001" y="-251.49892072486233" as="sourcePoint" />
+            <mxPoint x="868" y="-312.5662217351792" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1930" value="" style="edgeStyle=none;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;curved=1;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1781" target="2z6pbLF9syvMWNB0rCqv-1931" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214.93502518090008" y="349.00054553416277" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Strategy" link="https://www.productfocus.com/product-management-resources/journal-articles/strategy/" id="2z6pbLF9syvMWNB0rCqv-1931">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=16;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+            <mxGeometry x="534.0000000000001" y="955.67" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="KPI &amp;amp; metrics" link="https://www.toptal.com/product-managers/product-management/creating-success-a-guide-to-product-manager-kpis" id="2z6pbLF9syvMWNB0rCqv-1932">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+            <mxGeometry x="670.0000000000001" y="1102" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1933" value="Business plan model" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="250" y="955.67" width="124" height="44.5" as="geometry" />
+        </mxCell>
+        <UserObject label="Risk management" link="https://medium.com/swlh/how-to-manage-risk-as-a-product-manager-238236d1974e" id="2z6pbLF9syvMWNB0rCqv-1934">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+            <mxGeometry x="491" y="1114.5" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Strategic thinking" link="https://go.forrester.com/blogs/the-five-essentials-of-strategic-product-management/" id="2z6pbLF9syvMWNB0rCqv-1935">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+            <mxGeometry x="459.86" y="804.5" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1936" value="" style="endArrow=classic;html=1;strokeColor=#9673a6;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#e1d5e7;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1931" target="2z6pbLF9syvMWNB0rCqv-1933" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1385" y="1607.67" as="sourcePoint" />
+            <mxPoint x="1435" y="1557.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1937" value="" style="endArrow=classic;html=1;strokeColor=#9673a6;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#e1d5e7;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1931" target="2z6pbLF9syvMWNB0rCqv-1935" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639.8600000000001" y="967.7510792751376" as="sourcePoint" />
+            <mxPoint x="873" y="906.6837782648207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1938" value="" style="endArrow=classic;html=1;strokeColor=#9673a6;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#e1d5e7;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1931" target="2z6pbLF9syvMWNB0rCqv-1934" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="649.8600000000001" y="977.7510792751376" as="sourcePoint" />
+            <mxPoint x="883" y="916.6837782648207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1939" value="" style="endArrow=classic;html=1;strokeColor=#9673a6;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#e1d5e7;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1931" target="2z6pbLF9syvMWNB0rCqv-1932" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="659.8600000000001" y="987.7510792751376" as="sourcePoint" />
+            <mxPoint x="893" y="926.6837782648207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1963" value="System" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1832.25" y="1276" width="117.75" height="36.67" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1965" value="" style="endArrow=classic;html=1;strokeColor=#d79b00;strokeWidth=1;fontSize=16;fontStyle=0;fillColor=#ffe6cc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1828" target="2z6pbLF9syvMWNB0rCqv-1968" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1794.0833333333348" y="1418.42" as="sourcePoint" />
+            <mxPoint x="1953.5577090076576" y="1468.92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1966" value="" style="endArrow=classic;html=1;strokeColor=#d79b00;strokeWidth=1;fontSize=16;fontStyle=0;fillColor=#ffe6cc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1828" target="2z6pbLF9syvMWNB0rCqv-1963" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1813.1100000000006" y="1395.7483864617252" as="sourcePoint" />
+            <mxPoint x="2066.25" y="1325.1837782648206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1967" value="" style="endArrow=classic;html=1;strokeColor=#d79b00;strokeWidth=1;fontSize=16;fontStyle=0;fillColor=#ffe6cc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1828" target="2z6pbLF9syvMWNB0rCqv-1969" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1754.9970219435745" y="1418.42" as="sourcePoint" />
+            <mxPoint x="1842.3696568722844" y="1496.42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1968" value="Technical" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1840" y="1376.25" width="117.75" height="36.67" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1969" value="Application" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="1447.83" width="117.75" height="36.67" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1970" value="Functional" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="1472.17" width="117.75" height="36.67" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1971" value="" style="endArrow=classic;html=1;strokeColor=#d79b00;strokeWidth=1;fontSize=16;fontStyle=0;fillColor=#ffe6cc;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1828" target="2z6pbLF9syvMWNB0rCqv-1970" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1748.3313190750487" y="1400.75" as="sourcePoint" />
+            <mxPoint x="2004.1121186230466" y="1537.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Risk management" link="https://medium.com/swlh/how-to-manage-risk-as-a-product-manager-238236d1974e" id="2z6pbLF9syvMWNB0rCqv-1974">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+            <mxGeometry x="260.0000000000001" y="1115.17" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1975" value="" style="endArrow=classic;html=1;strokeColor=#9673a6;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#e1d5e7;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1931" target="2z6pbLF9syvMWNB0rCqv-1974" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60.00333333333492" y="1231.41" as="sourcePoint" />
+            <mxPoint x="322.1700000000001" y="1128.1737782648208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1976" value="Timing" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="400.00000000000006" y="1236.5" width="117.75" height="36.67" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1977" value="" style="endArrow=classic;html=1;strokeColor=#9673a6;strokeWidth=1;fontSize=16;fontStyle=0;fillColor=#e1d5e7;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1974" target="2z6pbLF9syvMWNB0rCqv-1980" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="342.2533333333349" y="1383.3300000000002" as="sourcePoint" />
+            <mxPoint x="501.7277090076577" y="1433.8300000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1978" value="" style="endArrow=classic;html=1;strokeColor=#9673a6;strokeWidth=1;fontSize=16;fontStyle=0;fillColor=#e1d5e7;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1974" target="2z6pbLF9syvMWNB0rCqv-1976" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="361.28000000000065" y="1360.6583864617253" as="sourcePoint" />
+            <mxPoint x="614.4200000000001" y="1290.0937782648207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1979" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1974" target="2z6pbLF9syvMWNB0rCqv-1981" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="303.1670219435746" y="1383.3300000000002" as="sourcePoint" />
+            <mxPoint x="390.53965687228447" y="1461.3300000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1980" value="Tech" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="230.00000000000006" y="1260.42" width="117.75" height="36.67" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1981" value="People" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="90.00000000000011" y="1208.1699999999998" width="117.75" height="36.67" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1982" value="Business" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E6E6E6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="90.00000000000006" y="1054.5" width="117.75" height="36.67" as="geometry" />
+        </mxCell>
+        <mxCell id="2z6pbLF9syvMWNB0rCqv-1983" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fontSize=16;fontStyle=0" parent="1" source="2z6pbLF9syvMWNB0rCqv-1974" target="2z6pbLF9syvMWNB0rCqv-1982" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="296.50131907504874" y="1365.66" as="sourcePoint" />
+            <mxPoint x="552.2821186230467" y="1502.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Product strategy" link="https://maa1.medium.com/my-product-management-toolkit-2-product-strategy-2bef19bed058" id="8tN_X_FNdbyMISWyIYUK-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+            <mxGeometry x="288.86" y="831.42" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8tN_X_FNdbyMISWyIYUK-3" value="" style="endArrow=classic;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="2z6pbLF9syvMWNB0rCqv-1931" target="8tN_X_FNdbyMISWyIYUK-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="834.5" as="sourcePoint" />
+            <mxPoint x="770" y="834.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="KPI vs OKR" link="https://www.productplan.com/learn/product-manager-kpis/" id="8tN_X_FNdbyMISWyIYUK-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+            <mxGeometry x="640" y="1215.92" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Road map" link="https://www.productplan.com/example-roadmaps-for-product-managers/" id="8tN_X_FNdbyMISWyIYUK-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="1370" y="454.5" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8tN_X_FNdbyMISWyIYUK-7" value="" style="endArrow=classic;html=1;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;" parent="1" target="8tN_X_FNdbyMISWyIYUK-6" edge="1" source="2z6pbLF9syvMWNB0rCqv-1854">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="404.5" as="sourcePoint" />
+            <mxPoint x="1402.0000000000005" y="398.55047210300427" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Goal Setting" link="https://maa1.medium.com/my-product-management-toolkit-3-goal-setting-f78ea7569310" id="8tN_X_FNdbyMISWyIYUK-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="910" y="410" width="124" height="44.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="z7XmfNqqRI8rLSfBcxOt-1" value="" style="endArrow=classic;html=1;strokeColor=#9673a6;strokeWidth=1;fontSize=16;fontStyle=0;fillColor=#e1d5e7;" edge="1" parent="1" source="2z6pbLF9syvMWNB0rCqv-1932" target="8tN_X_FNdbyMISWyIYUK-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="581.7470219435736" y="1019.92" as="sourcePoint" />
+            <mxPoint x="642.6871786833858" y="1123.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z7XmfNqqRI8rLSfBcxOt-5" value="" style="endArrow=classic;html=1;strokeColor=#6c8ebf;strokeWidth=2;fontSize=16;fontStyle=0;fillColor=#dae8fc;" edge="1" parent="1" source="2z6pbLF9syvMWNB0rCqv-1854" target="8tN_X_FNdbyMISWyIYUK-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="534.5" as="sourcePoint" />
+            <mxPoint x="1053.1844331641291" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

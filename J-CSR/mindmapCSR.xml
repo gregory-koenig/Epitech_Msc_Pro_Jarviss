@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2021-01-11T11:45:24.847Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="OgaiZGc5uK6YWQCL9zmc" version="14.1.9" type="device">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="2426" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1745" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1764" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1746" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1771" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1747" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1760" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1748" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1753" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1749" value="&lt;a href=&quot;https://www.youtube.com/watch?v=1bpf_sHebLI&quot;&gt;Corporate social responsibility&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=16;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="485" y="490" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1750" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1753" target="1756" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1753" value="&lt;a href=&quot;https://miro.medium.com/max/875/1*vMOtzLNhi9uJQg6fSVUwoQ.jpeg&quot;&gt;ESS&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="230" y="490" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1756" value="&lt;a href=&quot;https://technologyatwork.itcilo.org/wp-content/uploads/2018/02/table_1.png&quot;&gt;Definition&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="490" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1757" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1763" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1758" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1762" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1759" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1761" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1760" value="&lt;a href=&quot;https://www.youtube.com/watch?v=wTidplpkqZE&quot;&gt;Examples&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="485" y="640" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1761" value="&lt;a href=&quot;https://www.youtube.com/watch?v=NWzTuFgXWxc&quot;&gt;Alstom&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="695" y="730" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1762" value="&lt;a href=&quot;https://www.youtube.com/watch?v=QkH13mO0uog&quot;&gt;LEGO&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="485" y="760" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1763" value="&lt;a href=&quot;https://www.youtube.com/c/DisneyCSR/featured&quot;&gt;Disney&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="280" y="730" width="150" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://www.youtube.com/watch?v=1bpf_sHebLI&quot;&gt;Definition&lt;/a&gt;" link="https://www.unido.org/sites/default/files/styles/1_1_crop_widget/public/2012-11/CSR_01_0.jpg?itok=4FMJMPP2" id="1764">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+            <mxGeometry x="485" y="354" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1790" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1765" target="3b8urtlOwCBgqxKiIBPc-1789" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1792" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1765" target="3b8urtlOwCBgqxKiIBPc-1791" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1765" value="&lt;a href=&quot;https://www.youtube.com/watch?v=mTAa2Bm0EZM&quot;&gt;Environment&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="740" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1766" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1765" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1786" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1767" target="3b8urtlOwCBgqxKiIBPc-1785" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1788" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1767" target="3b8urtlOwCBgqxKiIBPc-1787" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1767" value="&lt;a href=&quot;https://www.youtube.com/watch?v=Z5KZhm19EO0&quot;&gt;Social&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="485" y="120.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1768" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1767" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1780" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1769" target="3b8urtlOwCBgqxKiIBPc-1779" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1782" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1769" target="3b8urtlOwCBgqxKiIBPc-1781" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1769" value="&lt;a href=&quot;https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1938/2017/05/31144538/lue1.jpeg&quot;&gt;Economy&amp;nbsp;&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="250" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1770" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1769" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1771" value="ESG" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="750" y="489.9999999999999" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1774" value="&lt;a href=&quot;https://youtu.be/E0NkGtNU_9w&quot;&gt;Morale&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="990" y="630" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1775" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1774" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1776" value="&lt;a href=&quot;https://clutch.co/pr-firms/resources/how-corporate-social-responsibility-influences-buying-decisions&quot;&gt;Stakes&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="990" y="490" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1777" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1776" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1778" value="&lt;a href=&quot;https://www.msci.com/our-solutions/esg-investing/esg-ratings&quot;&gt;Definition&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="990" y="353" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1779" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1778" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1779" value="&lt;a href=&quot;https://www.fsg.org/sites/default/files/BtC%20corp%20blog_4%20ways%20to%20make%20change.png&quot;&gt;internal&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#f5af58;spacing=5;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="55" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1781" value="&lt;a href=&quot;https://www.distinct.lu/post/the-top-4-benefits-of-corporate-social-responsibility&quot;&gt;external&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#f5af58;spacing=5;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="140" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1785" value="&lt;a href=&quot;https://youmatter.world/en/hr-csr-role-human-resources/&quot;&gt;Internal&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#f5af58;spacing=5;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="350" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1787" value="&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stakeholder_%28en%29.svg/1920px-Stakeholder_%28en%29.svg.png&quot;&gt;External&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#f5af58;spacing=5;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="650" y="20.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1789" value="&lt;a href=&quot;https://www.slideshare.net/Jgahtan/csr-in-the-ecological-environment&quot;&gt;internal&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#f5af58;spacing=5;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="890" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3b8urtlOwCBgqxKiIBPc-1791" value="&lt;a href=&quot;https://www.triplepundit.com/story/2016/why-renewable-energy-now-requirement-csr/23496&quot;&gt;external&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;fontColor=#FFFFFF;strokeColor=none;strokeWidth=3;fillColor=#f5af58;spacing=5;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="960" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
